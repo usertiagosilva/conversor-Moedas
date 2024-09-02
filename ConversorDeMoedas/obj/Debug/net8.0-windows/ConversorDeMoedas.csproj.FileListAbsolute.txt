@@ -1,0 +1,16 @@
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0-windows\ConversorDeMoedas.exe
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0-windows\ConversorDeMoedas.deps.json
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0-windows\ConversorDeMoedas.runtimeconfig.json
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0-windows\ConversorDeMoedas.dll
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\bin\Debug\net8.0-windows\ConversorDeMoedas.pdb
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.Form1.resources
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.csproj.GenerateResource.cache
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.AssemblyInfoInputs.cache
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.AssemblyInfo.cs
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.dll
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\refint\ConversorDeMoedas.dll
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.pdb
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ConversorDeMoedas.genruntimeconfig.cache
+C:\Users\Guilherme M\source\repos\ConversorDeMoedas\ConversorDeMoedas\obj\Debug\net8.0-windows\ref\ConversorDeMoedas.dll
